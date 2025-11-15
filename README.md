@@ -49,7 +49,8 @@ set-url => sonradan update etmek için
 push => yereldeki dosyaların ve versiyonların uzağa(buluta, remote'a) gönderilmesini temsil eder
 >git push -u origin main
 
-
+pull => uzaktaki dosya ve versiyonların yerele çekilmesini temsil eder.
+>git pull
 
 ## Örnek Senaryo: 2 Kişi Aynı Projede Çalışıyor
 
