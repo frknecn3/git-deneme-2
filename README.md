@@ -64,4 +64,5 @@ her kullanıcı kendi branchini açar:
 
 (şu iki komutun tek satır hali gibidir)
 > git branch frknecn3    | branch oluştur
+
 > git checkout frknecn3   | branche geç
